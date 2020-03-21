@@ -1,4 +1,4 @@
-package lesson2;
+package pl.itacademy.java.lesson2;
 
 public class ConditionChecker {
     public static void main(String[] args) {

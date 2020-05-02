@@ -18,4 +18,13 @@ public class NationalBank {
         }
         return NATIONAL_BANK;
     }
+
+    public Bank getByName(String name) {
+        //TODO: implement the method
+        return null;
+    }
+
+    public void registerBank(Bank bank) {
+        banks.add(bank);
+    }
 }
